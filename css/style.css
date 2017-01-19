@@ -1,0 +1,13 @@
+.content {
+	position: relative;
+}
+.picture {
+	position:relative;
+	z-index: 1;
+}
+
+.center {
+	position: relative;
+	text-align: center;
+	z-index: 2;
+}
